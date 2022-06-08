@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "DisplayName": "level 1",
+      "Childs": [
+        {
+          "DisplayName": "client-test-name-align",
+          "Childs": [
+            {
+              "DisplayName": "level 3",
+              "Childs": [
+                {
+                  "DisplayName": "level 4",
+                  "Childs": [
+                    { "DisplayName": "level 5" },
+                    { "DisplayName": "level 5" },
+                    { "DisplayName": "level 5" },
+                    { "DisplayName": "level 5" },
+                    {
+                      "DisplayName": "level 5",
+                      "Childs": [
+                        { "DisplayName": "level 6" },
+                        { "DisplayName": "level 6" },
+                        { "DisplayName": "level 6" },
+                        { "DisplayName": "level 6" },
+                        { "DisplayName": "level 6" }
+                      ]
+                    }
+                  ]
+                },
+                { "DisplayName": "level 4" },
+                { "DisplayName": "level 4" },
+                { "DisplayName": "level 4" },
+                { "DisplayName": "level 4" }
+              ]
+            },
+            { "DisplayName": "other-client-10-test" }
+          ]
+        },
+        {
+          "DisplayName": "level 2.1",
+          "Childs": [{ "DisplayName": "level 3" }]
+        },
+        {
+          "DisplayName": "level 2.3",
+          "Childs": [{ "DisplayName": "level 3" }]
+        },
+        {
+          "DisplayName": "level 2",
+          "Childs": [
+            {
+              "DisplayName": "level 3",
+              "Childs": [
+                {
+                  "DisplayName": "level 4",
+                  "Childs": [{ "DisplayName": "level 5" }]
+                }
+              ]
+            },
+            { "DisplayName": "level 3" }
+          ]
+        },
+        {
+          "DisplayName": "display-name-4-test-long",
+          "Childs": [
+            { "DisplayName": "level 3" },
+            { "DisplayName": "level 3" },
+            { "DisplayName": "level 3" },
+            {
+              "DisplayName": "level 3",
+              "Childs": [
+                { "DisplayName": "level 4" },
+                { "DisplayName": "level 4" }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
